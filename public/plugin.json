@@ -1,0 +1,15 @@
+{
+  "main": "index.html",
+  "preload": "preload/services.js",
+  "logo": "logo.png",
+  "development": {
+    "main": "http://localhost:5173"
+  },
+  "features": [
+    {
+      "code": "json2ts",
+      "explain": "json2ts",
+      "cmds": ["json2ts"]
+    }
+  ]
+}
